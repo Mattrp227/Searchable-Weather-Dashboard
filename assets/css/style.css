@@ -1,1 +1,41 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: turquoise;
+    background-position: center;
+}
+hr{
+   
+    width:20%;
+}
+#upperright{
+    border:10px;
+    padding:10px;
+}
+#lowerright{
+    background: navy;
+    color: white;
+    padding:15px;
+}
+.button{
+    text-align: center;
+    width: 20%;
+    font-size: medium;
+    font-weight: bolder;
+    color: white;
+    background-color: turquoise;
+    border-radius: 3px;
+    border: 5px
+
+}
+
+.bottomleft{
+    text-align: center;
+    width: 20%;
+    font-size: medium;
+    color: black;
+    background-color: gray;
+    border-radius: 3px;
+    border: 5px
+}
 
